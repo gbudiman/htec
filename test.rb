@@ -3,7 +3,7 @@ require 'awesome_print'
 class Test
   attr_accessor :data
 
-  def initialize _n = 12
+  def initialize _n = 16
     @data = Array.new
     @rand = Random.new 42
 
