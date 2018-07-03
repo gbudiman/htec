@@ -1,0 +1,2 @@
+class Ms
+end
